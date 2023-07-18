@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    margin: 100px;
+}
+
+div{
+    margin-top: 100px;
+    display: flex; 
+    font-size: 40px;
+    justify-content: center;
+}
+
+a, a:visited{
+    color: red;
+}
+
+a:hover{
+    color: darkred;
+}
+
+#volta{
+    font-size: 30px;
+    display: flex;
+    margin: 18px;
+}

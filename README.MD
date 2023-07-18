@@ -1,0 +1,2 @@
+# Comandos de Descisão
+Esse projeto conta com 7 paginas HTML que compõe os diversos sites presentes nele. A opção com três interrogações (???) é a relacionada com o código do triângulo, a opção Automatização mental de compras é a relacionada com o código de saldo e compra, a opção Organização Tabajaras é a relacionada com o código do aumento.
